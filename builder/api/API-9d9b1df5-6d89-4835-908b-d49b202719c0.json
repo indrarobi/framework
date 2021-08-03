@@ -1,5 +1,17 @@
-{"properties": {
-    "description": "",
-    "id": "API-9d9b1df5-6d89-4835-908b-d49b202719c0",
-    "name": "Test"
-}}
+{
+    "elements": [{
+        "className": "org.joget.api.lib.AppFormAPI",
+        "properties": {
+            "ENABLED_PATHS": "post:/;delete:/{recordId};get:/{recordId}/download/{fileName};put:/",
+            "formDefId": "sample",
+            "id": "7BB78386-5459-4DF6-9352-C59BE485587B",
+            "ignorePermission": "",
+            "label": ""
+        }
+    }],
+    "properties": {
+        "description": "",
+        "id": "API-9d9b1df5-6d89-4835-908b-d49b202719c0",
+        "name": "Test"
+    }
+}
