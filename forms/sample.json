@@ -52,6 +52,15 @@
                         "readonly": "False",
                         "readonlyLabel": "False"
                     }
+                },
+                {
+                    "className": "org.joget.apps.form.lib.CheckBox",
+                    "properties": {
+                        "id": "field4",
+                        "label": "Check Box",
+                        "readonly": "False",
+                        "readonlyLabel": "False"
+                    }
                 }
             ],
             "properties": {"width": "100%"}
