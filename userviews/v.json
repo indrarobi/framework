@@ -335,6 +335,45 @@
                 "id": "category-072dc344-ba31-430d-9a70-0ce144cb3992",
                 "label": "<i class='fa fa-users'><\/i> Sample Approval Process"
             }
+        },
+        {
+            "className": "org.joget.apps.userview.model.UserviewCategory",
+            "menus": [{
+                "className": "org.joget.api.lib.ApiKeyMenu",
+                "properties": {
+                    "add-cancelButtonLabel": "",
+                    "add-customFooter": "",
+                    "add-customHeader": "",
+                    "add-messageShowAfterComplete": "",
+                    "add-saveButtonLabel": "",
+                    "apiId": "API-9d9b1df5-6d89-4835-908b-d49b202719c0",
+                    "buttonPosition": "bottomLeft",
+                    "checkboxPosition": "left",
+                    "customId": "",
+                    "edit-backButtonLabel": "",
+                    "edit-customFooter": "",
+                    "edit-customHeader": "",
+                    "edit-messageShowAfterComplete": "",
+                    "edit-readonly": "",
+                    "edit-readonlyLabel": "",
+                    "edit-saveButtonLabel": "",
+                    "enableOffline": "",
+                    "id": "40017F8332614041A676DA7254FBFEBE",
+                    "label": "Manage API Key",
+                    "list-customFooter": "",
+                    "list-customHeader": "",
+                    "list-deleteButtonLabel": "",
+                    "list-editLinkLabel": "",
+                    "list-newButtonLabel": "",
+                    "selectionType": "multiple",
+                    "userviewCacheDuration": "20",
+                    "userviewCacheScope": ""
+                }
+            }],
+            "properties": {
+                "id": "category-B22ECD2D2A934F909167BAD12BACA624",
+                "label": "New Category"
+            }
         }
     ],
     "className": "org.joget.apps.userview.model.Userview",
