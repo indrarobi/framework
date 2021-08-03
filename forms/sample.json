@@ -43,6 +43,15 @@
                         "value": "",
                         "workflowVariable": ""
                     }
+                },
+                {
+                    "className": "org.joget.apps.form.lib.Radio",
+                    "properties": {
+                        "id": "field3",
+                        "label": "Radio",
+                        "readonly": "False",
+                        "readonlyLabel": "False"
+                    }
                 }
             ],
             "properties": {"width": "100%"}
